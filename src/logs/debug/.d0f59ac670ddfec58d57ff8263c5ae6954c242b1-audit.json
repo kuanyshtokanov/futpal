@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/logs/debug/.d0f59ac670ddfec58d57ff8263c5ae6954c242b1-audit.json",
+    "files": [
+        {
+            "date": 1639499390518,
+            "name": "/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/logs/debug/2021-12-14.log",
+            "hash": "69461d2540af1cae2d4cdb9b1a2a3e13"
+        },
+        {
+            "date": 1639575498085,
+            "name": "/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/logs/debug/2021-12-15.log",
+            "hash": "5bc3194de206d480dcecfac1c7168710"
+        },
+        {
+            "date": 1639648361580,
+            "name": "/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/logs/debug/2021-12-16.log",
+            "hash": "e2abe25d0fba979193383ad981d81720"
+        },
+        {
+            "date": 1639748792017,
+            "name": "/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/logs/debug/2021-12-17.log",
+            "hash": "0235beece568f57ffbb66e37af00bcd8"
+        },
+        {
+            "date": 1639916141543,
+            "name": "/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/logs/debug/2021-12-19.log",
+            "hash": "cdffe0c582bfe202146e25f90ca90d25"
+        }
+    ]
+}

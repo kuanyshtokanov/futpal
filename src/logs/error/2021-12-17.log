@@ -1,0 +1,37 @@
+2021-12-17 15:47:12 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:47:19 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:48:31 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:50:23 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:51:05 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:51:28 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:52:18 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:52:34 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:53:35 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:53:58 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 15:56:39 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 16:20:49 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-12-17 17:06:52 error: [POST] /users >> StatusCode:: 400, Message:: role must be a valid enum value
+2021-12-17 17:07:52 error: uncaughtException: Invalid schema configuration: `GAME_ORGANIZER` is not a valid type at path `0`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `GAME_ORGANIZER` is not a valid type at path `0`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:1066:11)
+    at Schema.path (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:710:27)
+    at Schema.add (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:527:12)
+    at new Schema (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:128:10)
+    at Schema.add (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:548:25)
+    at new Schema (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:128:10)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/models/users.model.ts:6:28)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-17 17:08:05 error: uncaughtException: Invalid schema configuration: `GAME_ORGANIZER` is not a valid type at path `0`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `GAME_ORGANIZER` is not a valid type at path `0`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:1066:11)
+    at Schema.path (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:710:27)
+    at Schema.add (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:527:12)
+    at new Schema (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:128:10)
+    at Schema.add (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:548:25)
+    at new Schema (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/schema.js:128:10)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/models/users.model.ts:6:28)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)

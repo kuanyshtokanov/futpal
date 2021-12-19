@@ -1,0 +1,24 @@
+2021-12-15 18:40:46 error: uncaughtException: database names cannot contain the character '/'
+MongoAPIError: database names cannot contain the character '/'
+    at validateDatabaseName (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/db.ts:753:13)
+    at new Db (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/db.ts:154:5)
+    at MongoClient.db (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/mongo_client.ts:489:16)
+    at _setClient (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/connection.js:827:58)
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/connection.js:791:7
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/utils.ts:622:5
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/mongo_client.ts:424:9
+    at connectCallback (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/operations/connect.ts:48:5)
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/operations/connect.ts:113:5
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/sdam/topology.ts:477:47
+2021-12-15 18:41:26 error: uncaughtException: database names cannot contain the character '/'
+MongoAPIError: database names cannot contain the character '/'
+    at validateDatabaseName (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/db.ts:753:13)
+    at new Db (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/db.ts:154:5)
+    at MongoClient.db (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/mongo_client.ts:489:16)
+    at _setClient (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/connection.js:827:58)
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongoose/lib/connection.js:791:7
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/utils.ts:622:5
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/mongo_client.ts:424:9
+    at connectCallback (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/operations/connect.ts:48:5)
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/operations/connect.ts:113:5
+    at /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/mongodb/src/sdam/topology.ts:477:47

@@ -1,0 +1,2 @@
+2021-12-16 17:39:08 error: [POST] /users >> StatusCode:: 409, Message:: You're email qwe@qwe.qwe already exists
+2021-12-16 17:42:37 error: [POST] /login >> StatusCode:: 409, Message:: You're password not matching

@@ -1,0 +1,280 @@
+2021-12-14 18:35:30 error: uncaughtException: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 18:35:58 error: uncaughtException: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 18:36:08 error: uncaughtException: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 18:37:38 error: uncaughtException: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 18:40:37 error: uncaughtException: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 18:53:34 error: uncaughtException: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-validator'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/dtos/users.dto.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 19:03:11 error: uncaughtException: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 19:03:35 error: uncaughtException: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 19:03:42 error: uncaughtException: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 19:04:13 error: uncaughtException: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 19:04:26 error: uncaughtException: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 19:04:34 error: uncaughtException: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 19:04:42 error: uncaughtException: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-12-14 19:05:27 error: uncaughtException: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+Error: Cannot find module 'class-transformer'
+Require stack:
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/routes/users.route.ts
+- /Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/src/middlewares/validation.middleware.ts:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module.m._compile (/Users/kuanysh.tokanov/Documents/dev/pets/futpal-backend/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
